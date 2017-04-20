@@ -1,0 +1,29 @@
+<game>
+    <addrs>
+        <addr>10.1.1.203:7740</addr>
+        <addr>10.8.68.196:7740</addr>
+        <addr>10.8.69.197:7740</addr>
+        <addr>10.8.70.198:7740</addr>
+    </addrs>
+
+    <disks>
+        <disk>
+            <key>66</key>
+            <value>/dev/sdc1</value>
+        </disk>
+
+        <disk>
+            <key>80</key>
+            <value>/dev/sde1</value>
+        </disk>
+        <disk>
+            <key>89</key>
+            <value>/dev/sdc3</value>
+        </disk>
+        <disk>
+            <key>90</key>
+            <value>/dev/sdf1</value>
+        </disk>
+    </disks>
+    <cache>6000000</cache>
+</game>

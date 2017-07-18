@@ -12,8 +12,7 @@
 
   <body>
     <h3>Description</h3>
-   In 2016, while I met a game server written in c++.  it's really a shit.
- And then I rewrite it with go.
+   In 2016, rewrite a old c++ service, with go.   And I extract the main framework to this open source project
  
    And finally I remove most of the related bussiness logic.  and rename it with Kharites.
    and opensource it to github
